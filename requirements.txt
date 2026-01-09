@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+flask
+DrissionPage
+bs4
+cryptography
